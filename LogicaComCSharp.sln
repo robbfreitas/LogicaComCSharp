@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicaComCSharp", "LogicaCo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01TiposDeDados", "01TiposDeDados\01TiposDeDados.csproj", "{B0FEC466-4998-4030-80D6-409142DF8AA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02SaidaDeDados", "02SaidaDeDados\02SaidaDeDados.csproj", "{047E94C0-C926-44CE-9B48-88C4D72874DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02SaidaDeDados", "02SaidaDeDados\02SaidaDeDados.csproj", "{047E94C0-C926-44CE-9B48-88C4D72874DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02SaidaDeDadosExercicio", "02SaidaDeDadosExercicio\02SaidaDeDadosExercicio.csproj", "{83DCC63E-7C52-4EAA-BEA3-2CBA76A743C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{047E94C0-C926-44CE-9B48-88C4D72874DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{047E94C0-C926-44CE-9B48-88C4D72874DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{047E94C0-C926-44CE-9B48-88C4D72874DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83DCC63E-7C52-4EAA-BEA3-2CBA76A743C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83DCC63E-7C52-4EAA-BEA3-2CBA76A743C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83DCC63E-7C52-4EAA-BEA3-2CBA76A743C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83DCC63E-7C52-4EAA-BEA3-2CBA76A743C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
