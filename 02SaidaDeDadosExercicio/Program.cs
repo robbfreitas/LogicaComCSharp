@@ -32,6 +32,6 @@ class Exercicio
 
         Console.WriteLine($"Medida com oito casas decimais: {medida:F8}");
         Console.WriteLine($"Arredondado (três casas decimais): {medida:F3}");
-        Console.WriteLine(medida.ToString("F3", CultureInfo.InvariantCulture));
+        Console.WriteLine("Separador decimal Invariante Culture: " + medida.ToString("F3", CultureInfo.InvariantCulture));
     }
 }

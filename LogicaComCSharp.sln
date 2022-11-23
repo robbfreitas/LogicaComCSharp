@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01TiposDeDados", "01TiposDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02SaidaDeDados", "02SaidaDeDados\02SaidaDeDados.csproj", "{047E94C0-C926-44CE-9B48-88C4D72874DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02SaidaDeDadosExercicio", "02SaidaDeDadosExercicio\02SaidaDeDadosExercicio.csproj", "{83DCC63E-7C52-4EAA-BEA3-2CBA76A743C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02SaidaDeDadosExercicio", "02SaidaDeDadosExercicio\02SaidaDeDadosExercicio.csproj", "{83DCC63E-7C52-4EAA-BEA3-2CBA76A743C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03OperadoresAritmeticos", "03OperadoresAritmeticos\03OperadoresAritmeticos.csproj", "{7103EE1F-3944-439C-AADC-BB0CC9C2DE23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{83DCC63E-7C52-4EAA-BEA3-2CBA76A743C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83DCC63E-7C52-4EAA-BEA3-2CBA76A743C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83DCC63E-7C52-4EAA-BEA3-2CBA76A743C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7103EE1F-3944-439C-AADC-BB0CC9C2DE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7103EE1F-3944-439C-AADC-BB0CC9C2DE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7103EE1F-3944-439C-AADC-BB0CC9C2DE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7103EE1F-3944-439C-AADC-BB0CC9C2DE23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
