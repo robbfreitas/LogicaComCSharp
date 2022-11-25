@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04OperadoresDeAtribuicao", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05ConversaoImplicitaECasting", "05ConversaoImplicitaECasting\05ConversaoImplicitaECasting.csproj", "{4C2AABA4-AE39-42F7-92D6-E084023ADB93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06EntradaDeDados", "06EntradaDeDados\06EntradaDeDados.csproj", "{6B1B0367-87E4-4B19-905C-8AC3ADD95A43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06EntradaDeDados", "06EntradaDeDados\06EntradaDeDados.csproj", "{6B1B0367-87E4-4B19-905C-8AC3ADD95A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06EntradaDeDadosExercicio", "06EntradaDeDadosExercicio\06EntradaDeDadosExercicio.csproj", "{7F908D7F-9447-4FE5-B0DB-2108914C61D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{6B1B0367-87E4-4B19-905C-8AC3ADD95A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B1B0367-87E4-4B19-905C-8AC3ADD95A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B1B0367-87E4-4B19-905C-8AC3ADD95A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F908D7F-9447-4FE5-B0DB-2108914C61D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F908D7F-9447-4FE5-B0DB-2108914C61D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F908D7F-9447-4FE5-B0DB-2108914C61D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F908D7F-9447-4FE5-B0DB-2108914C61D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
