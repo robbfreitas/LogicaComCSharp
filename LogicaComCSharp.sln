@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07OperadoresComparativos", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08OperadoresLogicos", "08OperadoresLogicos\08OperadoresLogicos.csproj", "{37C99067-B3D9-4B47-9646-B84691D6EBCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09EstruturasCondicionaisIfElse", "09EstruturasCondicionaisIfElse\09EstruturasCondicionaisIfElse.csproj", "{C04C64D7-3772-4C80-8F36-BDDFF83ED548}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09EstruturasCondicionaisIfElse", "09EstruturasCondicionaisIfElse\09EstruturasCondicionaisIfElse.csproj", "{C04C64D7-3772-4C80-8F36-BDDFF83ED548}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Funcoes", "10Funcoes\10Funcoes.csproj", "{8BA04DA8-49F4-4A57-8017-849587F5923C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10Funcoes", "10Funcoes\10Funcoes.csproj", "{8BA04DA8-49F4-4A57-8017-849587F5923C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11EstruturaRepetitivaWhile", "11EstruturaRepetitivaWhile\11EstruturaRepetitivaWhile.csproj", "{07250FDC-EB87-410E-91D6-156AD16B06BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{8BA04DA8-49F4-4A57-8017-849587F5923C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA04DA8-49F4-4A57-8017-849587F5923C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA04DA8-49F4-4A57-8017-849587F5923C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07250FDC-EB87-410E-91D6-156AD16B06BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07250FDC-EB87-410E-91D6-156AD16B06BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07250FDC-EB87-410E-91D6-156AD16B06BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07250FDC-EB87-410E-91D6-156AD16B06BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
